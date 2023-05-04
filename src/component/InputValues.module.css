@@ -1,0 +1,8 @@
+.input{
+    color:  black;
+    font-size: 15px;
+
+    display: flex;
+    border: 3px solid aqua;
+    border-radius: 10px;
+}

@@ -1,0 +1,12 @@
+.indicator{
+ color: aqua;
+ font-size: 50px;
+ font-weight: bold;
+ /*background: white;*/
+}
+
+.max{
+ color: darkred;
+ font-size: 90px;
+ font-weight: bold;
+}
